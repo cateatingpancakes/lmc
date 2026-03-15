@@ -6,3 +6,4 @@ Ai aici [orarul tutoriatelor](https://docs.google.com/spreadsheets/d/1nl292n-XVv
 # Link-uri utile
 - [WhatsApp tutoriat](https://chat.whatsapp.com/FXR6yttQS8HBhuMP5okx2z)
 - [Descarcă-ți Prolog local](https://chat.whatsapp.com/FXR6yttQS8HBhuMP5okx2z)
+- [Tutoriat 2024-2025](https://github.com/mihaid-asm/TutoriatLMC01_24_25)
