@@ -1,5 +1,6 @@
 # Tutoriat LMC
 În repo-ul acesta găsiți materiale pentru LMC, ținut de Matei Mara-Sandra și Spiridon Mihnea-Andrei. Vom adăuga aici fișiere cu ceea ce discutăm la tutoriat, subiecte/rezolvări de examene din ani anteriori, etc.
+
 Tutoriatul nostru se concentrează pe materia seriei 14, predată de Conf. dr. Claudia Mureșan. Pentru seriile 13 și 15, recomandăm [tutoriatul colegilor noștri](https://github.com/voaidesr/lmc?tab=readme-ov-file). 
 # Organizatoric
 Tutoriatul se ține **miercuri** în intervalul **10-12** în **sala 108**.
