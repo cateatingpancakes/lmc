@@ -9,5 +9,6 @@ Ai aici [orarul tutoriatelor](https://docs.google.com/spreadsheets/d/1nl292n-XVv
 # Link-uri utile
 - [WhatsApp tutoriat](https://chat.whatsapp.com/FXR6yttQS8HBhuMP5okx2z)
 - [Descarcă-ți Prolog local](https://chat.whatsapp.com/FXR6yttQS8HBhuMP5okx2z)
-- [Drive curs](https://drive.google.com/drive/folders/1Hlg2rP7Kk_t8rZvrb-RrhExDq4dGVoiP)
+- [Drive curs 2025-2026](https://drive.google.com/drive/folders/1Hlg2rP7Kk_t8rZvrb-RrhExDq4dGVoiP)
+- [Drive curs 2024-2025](https://drive.google.com/drive/folders/1UcfOU6Ua-P5xZa0gFgkmMBTNOTtrkXbY)
 - [Tutoriat 2024-2025](https://github.com/mihaid-asm/TutoriatLMC01_24_25)
